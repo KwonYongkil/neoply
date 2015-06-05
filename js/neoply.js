@@ -5,10 +5,6 @@ function shuffle(o){
 var companies = new Array();
 // 2015
 companies.push(
-    ["current", "xe", "matchufitu",
-    "<a href='http://www.xengineering.co' target='_blank' style='color:white;'>여러 장의 신용카드와 마일리지,포인트 카드를 저장하고, 선택해서 결제할 수 있는 All-in-one 디바이이스를 개발하고 있습니다. http://www.xengineering.co </a>"]);
-
-companies.push(
     ["current", "xe", "엑스엔지니어링",
     "<a href='http://www.xengineering.co' target='_blank' style='color:white;'>여러 장의 신용카드와 마일리지,포인트 카드를 저장하고, 선택해서 결제할 수 있는 All-in-one 디바이이스를 개발하고 있습니다. http://www.xengineering.co </a>"]);
 
